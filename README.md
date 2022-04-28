@@ -9,3 +9,6 @@
 * [pygame 3小時製作一個遊戲](https://youtu.be/61eX0bFAsYs)
 
 ## 
+|日期|紀錄|內容|CODE|
+|-|-|-|-|
+|4/29|[DAY1](DAY1.md)|Pygame install/basic structure/sprite/clock/self counter|[LINL](DAY.py)|
