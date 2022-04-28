@@ -11,4 +11,4 @@
 ## 
 |日期|紀錄|內容|CODE|
 |-|-|-|-|
-|4/29|[DAY1](NOTE/DAY1.md)|Pygame install/basic structure/sprite/clock/self counter|[LINL](CODE/DAY1.py)|
+|4/29|[DAY1](NOTE/DAY1.md)|Pygame install/basic structure/sprite/clock/self counter|[LINk](CODE/DAY1.py)|
